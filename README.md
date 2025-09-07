@@ -27,7 +27,7 @@ The system scans uploaded PDF resumes against common Applicant Tracking System (
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/resume-analyzer.git
+git clone https://github.com/KSURESHCHANDRAREDDY/Resume-Analyzer
 cd resume-analyzer
 ````
 
@@ -129,20 +129,7 @@ Add your test PDF files to the `sample_data/` folder.
 
 ## 📞 Contact
 
-Created by \[Your Name].
+Created by Koduru Suresh Chandra Reddy.
+Email:sureshreddy56003@gmail.com
 Feel free to open issues on GitHub or reach out for support.
 
----
-
-## 📜 License
-
-MIT License.
-
-```
-
----
-
-👉 Copy the above into a file named `README.md` in your project root, and commit it.
-
-Would you like me to also provide a sample `.env.example` file next?
-```
